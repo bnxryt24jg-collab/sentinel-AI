@@ -94,7 +94,7 @@ An automated stress-testing module simulates adversarial attacks **after remedia
 
 ## 📊 System Architecture Overview
 
-```mermaid
+```
 User Prompt Input
 ↓
 Sensitive Data Detection
@@ -165,13 +165,15 @@ In this hackathon version, input-level configurability is intentionally limited,
 
 ```bash
 npm install
-
+```
 ### Configure API Key
 Create a .env file in the project root and add your Gemini API key:
+```
 API_KEY=YOUR_GEMINI_API_KEY
+```
 
 ### Start Development Server
-
+```
 npm run dev
-
+```
 ---
