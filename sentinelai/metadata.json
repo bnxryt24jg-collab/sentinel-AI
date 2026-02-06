@@ -1,0 +1,5 @@
+{
+  "name": "SentinelAI",
+  "description": "An enterprise-grade AI security audit and automatic remediation platform for developers. Features multimodal injection detection, automated XML-based prompt hardening, and rigorous defense verification.",
+  "requestFramePermissions": []
+}
